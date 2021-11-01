@@ -8,7 +8,7 @@ const Layout: React.FC = () => {
   return (
     <Container>
       <Wrapper>
-        <Product children={undefined} />
+        <Product />
       </Wrapper>
     </Container>
   );
